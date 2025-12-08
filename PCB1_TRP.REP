@@ -1,0 +1,70 @@
+Teardrop Report PCB1_TRP.PcbDoc
+On 04-04-2024 at 19:20:32
+
+Pads visited                : 52
+
+Vias visited                : 5
+
+Pad teardrops failed : 42
+
+Pad TS_Active-GND(2599mil,2245.6mil) on Multi-Layer
+Pad TS_Active-NO(3150mil,2851.9mil) on Multi-Layer
+Pad TS_Active-NC(3150mil,3155mil) on Multi-Layer
+Pad TS_Active-IN(2449mil,2745.9mil) on Multi-Layer
+Pad TS_Active-VCC(3000mil,2245.6mil) on Multi-Layer
+Pad Start-GND(3805mil,2244.7mil) on Multi-Layer
+Pad Start-NO(4356mil,2851mil) on Multi-Layer
+Pad Start-NC(4356mil,3154.1mil) on Multi-Layer
+Pad Start-IN(3655mil,2745mil) on Multi-Layer
+Pad Start-VCC(4206mil,2244.7mil) on Multi-Layer
+Pad IMD-GND(1379mil,2245.6mil) on Multi-Layer
+Pad IMD-NO(1930mil,2851.9mil) on Multi-Layer
+Pad IMD-NC(1930mil,3155mil) on Multi-Layer
+Pad IMD-IN(1229mil,2745.9mil) on Multi-Layer
+Pad IMD-VCC(1780mil,2245.6mil) on Multi-Layer
+Pad APPS-GND(3800mil,3699.7mil) on Multi-Layer
+Pad APPS-NO(4351mil,4306mil) on Multi-Layer
+Pad APPS-NC(4351mil,4609.1mil) on Multi-Layer
+Pad APPS-IN(3650mil,4200mil) on Multi-Layer
+Pad APPS-VCC(4201mil,3699.7mil) on Multi-Layer
+Pad RTD-GND(2600mil,3700mil) on Multi-Layer
+Pad RTD-NO(3151mil,4306.3mil) on Multi-Layer
+Pad RTD-NC(3151mil,4609.4mil) on Multi-Layer
+Pad RTD-IN(2450mil,4200.3mil) on Multi-Layer
+Pad RTD-VCC(3001mil,3700mil) on Multi-Layer
+Pad MCU_G-GND(1379mil,3700mil) on Multi-Layer
+Pad MCU_G-NO(1930mil,4306.3mil) on Multi-Layer
+Pad MCU_G-NC(1930mil,4609.4mil) on Multi-Layer
+Pad MCU_G-IN(1229mil,4200.3mil) on Multi-Layer
+Pad MCU_G-VCC(1780mil,3700mil) on Multi-Layer
+Pad J1-1(4103.701mil,1840mil) on Multi-Layer
+Pad J1-2(4005.276mil,1840mil) on Multi-Layer
+Pad J1-3(3906.85mil,1840mil) on Multi-Layer
+Pad J1-4(3808.425mil,1840mil) on Multi-Layer
+Pad J1-5(3710mil,1840mil) on Multi-Layer
+Pad J1-6(3611.575mil,1840mil) on Multi-Layer
+Pad J1-7(3513.15mil,1840mil) on Multi-Layer
+Pad J1-8(3414.724mil,1840mil) on Multi-Layer
+Pad J2-1(3043.701mil,1850mil) on Multi-Layer
+Pad J2-2(2945.276mil,1850mil) on Multi-Layer
+Pad J2-3(2846.85mil,1850mil) on Multi-Layer
+Pad J2-4(2748.425mil,1850mil) on Multi-Layer
+Pad J2-5(2650mil,1850mil) on Multi-Layer
+Pad J2-6(2551.575mil,1850mil) on Multi-Layer
+Pad J2-7(2453.15mil,1850mil) on Multi-Layer
+Pad J2-8(2354.724mil,1850mil) on Multi-Layer
+Pad J3-1(2025.276mil,1840mil) on Multi-Layer
+Pad J3-2(1926.85mil,1840mil) on Multi-Layer
+Pad J3-3(1828.425mil,1840mil) on Multi-Layer
+Pad J3-4(1730mil,1840mil) on Multi-Layer
+Pad J3-5(1631.575mil,1840mil) on Multi-Layer
+Pad J3-6(1533.15mil,1840mil) on Multi-Layer
+
+Via teardrops failed : 0
+
+Via (1930mil,1720mil) from Top Layer to Bottom Layer
+Via (4505mil,1570mil) from Top Layer to Bottom Layer
+Via (4485mil,4875mil) from Top Layer to Bottom Layer
+Via (1110mil,1560mil) from Top Layer to Bottom Layer
+Via (1135mil,4885mil) from Top Layer to Bottom Layer
+
